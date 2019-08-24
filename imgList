@@ -1,0 +1,15 @@
+file './cards/1.jpg' 
+duration 6
+file './cards/2.jpg' 
+duration 12
+file './cards/3.jpg' 
+duration 6
+file './cards/4.jpg' 
+duration 12
+file './cards/5.jpg' 
+duration 18
+file './cards/6.jpg' 
+duration 24
+file './cards/7.jpg' 
+duration 30
+file './cards/7.jpg'
